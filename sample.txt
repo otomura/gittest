@@ -1,8 +1,4 @@
-
-キーワードを入力
-ReleaseQiitaユーザー向けのMastodon、Qiitadon を試験的に公開しました
-ユーザ登録ログイン
-プロジェクトGit運用手順まとめ
+修正しました。
 Git
 Git
 77
