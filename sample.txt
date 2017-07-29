@@ -1,4 +1,7 @@
 修正しました。
+master で修正しｍさいた。
+master で再修正
+
 Git
 Git
 77
